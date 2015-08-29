@@ -1,0 +1,21 @@
+{
+  "name": "story-app",
+  "version": "1.0.0",
+  "description": "Example of a MEAN Fullstack Application (Story App)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.13.3",
+    "bootstrap": "^3.3.5",
+    "express": "^4.13.3",
+    "jsonwebtoken": "^5.0.5",
+    "mongoose": "^4.1.3",
+    "morgan": "^1.6.1",
+    "socket.io": "^1.3.6"
+  }
+}
