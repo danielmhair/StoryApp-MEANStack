@@ -1,12 +1,12 @@
 {
   "name": "userStory",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "This is a user Story app",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Johnny",
+  "author": "Daniel Hair",
   "license": "ISC",
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
